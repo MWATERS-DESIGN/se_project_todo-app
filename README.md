@@ -1,17 +1,26 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+The To-Do App is a simple task management application that helps users organize daily activities, set deadlines and track progress with checkboxes. Users can add, complete and remove task through a clean and responsive interface.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+This app allows users to:
 
-## Technology
+- Add tasks with text input
+- Mark task as complete
+- Delete task
+- Reset or clear task
+- Responsive design for multiple devices.
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+## Tech Stack
+
+- HTML5
+- JavaScript
+- JavaScript Modules(ES6)
+- CSS
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Deployment Link](https://mwaters-design.github.io/se_project_todo-app/)
